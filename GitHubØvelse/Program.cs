@@ -6,7 +6,7 @@ namespace GitHubØvelse
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Satan i gatan");
 		}
 	}
 }
